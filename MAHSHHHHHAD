@@ -32,7 +32,7 @@
         width: 100%;
       }
 
-      [show-background-image] #backgroundImage {
+      [show-background-image] #backgroundImage dbcohcockkp
         visibility: visible;
       }
     </style>
